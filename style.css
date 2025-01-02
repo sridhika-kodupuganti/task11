@@ -1,0 +1,102 @@
+.outerbox{
+    width: 300px;
+    height: 300px;
+    border: 5px solid lightcoral;
+    position: relative;
+    top:-10px;
+    left:50px;
+    
+}
+.innerbox{
+    width: 200px;
+    height: 200px;
+    border: 5px solid lawngreen;
+    position: absolute;
+    bottom:50px;
+    right:50px;
+    
+
+}
+.card{
+    width: 200px;
+    height: 200px;
+    border: 5px solid black;
+    position: relative;
+    padding: 20px;
+    bottom:0px;
+    margin: 30px;
+
+}
+.icon{
+    width: 100px;
+    height: 100px;
+    border: 5px solid purple;
+    position: absolute;
+    bottom:0px;
+    right:0px;
+}
+.tooltip-container{
+    width:200px;
+    height:200px;
+    border: 5px solid lightpink;
+    position:relative;
+    left:10px;
+    
+}
+.tooltip{
+    width:100px;
+    height: 100px;
+    border: 5px solid lightskyblue;
+    position:absolute;
+    right:50px;
+    bottom: 60px;
+}
+.button{
+    left:40px;
+    position: absolute;
+    top: 2px;
+
+}
+.avatar-container{
+    width:300px;
+    height:300px;
+    border: 5px solid lightseagreen;
+    position: relative;
+    
+
+}
+.badge{
+    width:100px;
+    height:100px;
+    border: 5px solid white;
+    position: absolute;
+    top:0px;
+    right:0px;
+}
+img{
+    width:300px;
+    height: 300px;
+    
+    
+}
+.image-container{
+    width: 300px;
+    height: 300px;
+    border:5px solid peru;
+    position: relative;
+
+}
+.overlay{
+    width:300px;
+    height:300px;
+    padding-left:150px;
+    margin:30px;
+    position:absolute;
+    top:0px;
+    left: 0px;;
+}
+img{
+    width:300px;
+    height:300px;
+}
+
